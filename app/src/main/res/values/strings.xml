@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trabajo final proyecto Marcelo Jara</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Shoes</string>
+    <string name="second_fragment_label">Shoes Detail</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="contactar_area_de_ventas">Contactar al area de ventas</string>
+    <string name="shoesimage">shoesImage</string>
+
+
+</resources>
